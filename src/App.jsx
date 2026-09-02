@@ -1,12 +1,9 @@
-// import './App.css'
-import Mssg from './Mssg.jsx'
-import Heart from './Heart.jsx'
+import LudoGame from "./ludo"
 
 function App() {
   return (
     <>
-      <Mssg name="ansh" textcolor="pink"/>
-      <Heart/>
+      <LudoGame/>
     </>
   )
 }
