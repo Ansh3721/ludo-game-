@@ -1,9 +1,10 @@
-import LudoGame from "./ludo"
+import "./App.css"
+import TodoList from "./TodoList"
 
 function App() {
   return (
     <>
-      <LudoGame/>
+      <TodoList/>
     </>
   )
 }
